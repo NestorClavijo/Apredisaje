@@ -1,0 +1,37 @@
+.base{
+    margin:auto;
+    text-align: center;
+    align-self: center;
+    background-color: rgb(97, 97, 99);
+    width: 250px;
+    height: 300px;
+    border-radius:10px;
+    padding: 5px;
+}
+
+textarea{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    width: 210px;
+    height: 30px;
+    resize: none;
+    border-color: rgb(186, 187, 207);
+    font: 150% sans-serif;
+    text-align: left;
+}
+
+button{
+    width: 40px;
+    height: 35px;
+    margin: 5px;
+    background-color: rgb(212, 212, 212);
+    font: 150% sans-serif;
+    border-radius: 5px;
+}
+
+h6{
+    width: 210px;
+    text-align: right;
+    margin: auto;
+}
